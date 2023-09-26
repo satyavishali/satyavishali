@@ -9,5 +9,3 @@
 🛢️ Knowledgeable in Oracle SQL and PL/SQL.
 🚀 Eager to learn and grow in the software field.
 🛢️ Aspiring to work with data and solve real-world problems.
-
-Let's code and explore data together! 🚀🐍 #DataNinja
